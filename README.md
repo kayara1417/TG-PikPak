@@ -7,7 +7,9 @@
 
 Bash
 curl -O https://github.com/kayara1417/TG-PikPak/blob/main/install.sh
+
 bash install.sh
+
 按照屏幕提示，粘贴你申请好的 API_ID 和 API_HASH。
 
 等待 2 分钟安装完成后，去 Telegram 向你自己的机器人发送 /start，根据日志提示输入验证码完成登录即可食用！
