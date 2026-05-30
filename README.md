@@ -6,7 +6,7 @@
 下载并运行一键安装脚本：
 
 Bash
-curl -O https://raw.githubusercontent.com/你的GitHub用户名/你的仓库名/main/install.sh
+curl -O https://github.com/kayara1417/TG-PikPak/blob/main/install.sh
 bash install.sh
 按照屏幕提示，粘贴你申请好的 API_ID 和 API_HASH。
 
